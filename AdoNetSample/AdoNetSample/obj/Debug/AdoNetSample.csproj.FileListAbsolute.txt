@@ -1,0 +1,10 @@
+C:\Users\taski\source\repos\AdoNetSample\AdoNetSample\bin\Debug\AdoNetSample.exe.config
+C:\Users\taski\source\repos\AdoNetSample\AdoNetSample\bin\Debug\AdoNetSample.exe
+C:\Users\taski\source\repos\AdoNetSample\AdoNetSample\bin\Debug\AdoNetSample.pdb
+C:\Users\taski\source\repos\AdoNetSample\AdoNetSample\obj\Debug\AdoNetSample.csprojAssemblyReference.cache
+C:\Users\taski\source\repos\AdoNetSample\AdoNetSample\obj\Debug\AdoNetSample.Form1.resources
+C:\Users\taski\source\repos\AdoNetSample\AdoNetSample\obj\Debug\AdoNetSample.Properties.Resources.resources
+C:\Users\taski\source\repos\AdoNetSample\AdoNetSample\obj\Debug\AdoNetSample.csproj.GenerateResource.cache
+C:\Users\taski\source\repos\AdoNetSample\AdoNetSample\obj\Debug\AdoNetSample.csproj.CoreCompileInputs.cache
+C:\Users\taski\source\repos\AdoNetSample\AdoNetSample\obj\Debug\AdoNetSample.exe
+C:\Users\taski\source\repos\AdoNetSample\AdoNetSample\obj\Debug\AdoNetSample.pdb
